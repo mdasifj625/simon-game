@@ -64,3 +64,10 @@ body {
 	box-shadow: 0 0 20px white;
 	background-color: grey;
 }
+
+#yellow p {
+	color: #011f3f;
+	font-weight: 600;
+	font-size: 3rem;
+	margin-top: 10px;
+}
